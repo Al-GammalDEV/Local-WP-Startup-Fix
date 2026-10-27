@@ -4,7 +4,7 @@
 
 LocalWP Doctor Pro is an interactive Windows desktop utility designed to help diagnose and troubleshoot startup issues in **Local (LocalWP) by Flywheel**, particularly those involving MySQL and MariaDB startup delays, database connection errors, stale PID files, and database configuration.
 
-**Developed by:** Mohammaed El-gammal  
+**Developed by:** Mohammaed El-gammal   
 **Version:** 2.0  
 **Year:** 2026  
 **License:** MIT License  
